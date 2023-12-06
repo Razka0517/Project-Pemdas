@@ -12,9 +12,7 @@ def tigajam(h,m,s) :
         time.sleep(1)
         total_detik -=1
     print("waktu sudah habis !!")
-h=3
-m=0
-s=0
+h=0;m=0;s=0
 
 user = int(input("Mau main berapa jam ? "))
 
